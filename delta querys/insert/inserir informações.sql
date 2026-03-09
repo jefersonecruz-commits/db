@@ -1,0 +1,2 @@
+-- Active: 1772562564334@@127.0.0.1@3306
+INSERT INTO table_frutaria (nome ,numero ,cor ,cnpj) VALUES(4551245132412, 41241241512, NULL, 41241241512) 
