@@ -1,0 +1,1 @@
+SELECT * FROM table_frutaria limit 100;
